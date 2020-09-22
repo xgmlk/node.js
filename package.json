@@ -10,7 +10,7 @@
     "nodejs",
     "js"
   ],
-  "author": "me",
+  "author": "xgmlk <ya.dimabl@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.4"

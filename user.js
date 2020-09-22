@@ -4,12 +4,8 @@ const user = {
 }
 
 module.exports = {
-    user: 'user',
+    user: user,
     sayHello() {
-        console.log('Hello');
+        console.log('Hello loh!');
     }
-};
-
-const user2 = {
-    name: 'Igor'
-};
+}
